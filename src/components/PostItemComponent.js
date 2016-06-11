@@ -13,6 +13,8 @@ export class PostItemComponent extends React.Component {
   }
 
   render() {
+    let { item } = this.props;
+
     return (
       <div className="panel panel-default">
         <div className="panel-body">

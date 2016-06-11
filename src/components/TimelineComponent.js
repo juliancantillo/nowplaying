@@ -1,17 +1,19 @@
 import React from 'react';
 import { connect } from 'react-redux';
 
-import { PostItem } from './PostItemComponent';
+import PostItem from './PostItemComponent';
 
 function mapStateToProps(state) {
   return {
-    items: state.timeline.items
+    items: state.timeline.items,
+    isLoading: state.timeline.isLoading
   };
 }
 
 export class TimelineComponent extends React.Component {
   static propTypes = {
-    items: React.PropTypes.array.isRequired
+    items: React.PropTypes.array.isRequired,
+    isLoading: React.PropTypes.bool
   };
 
   constructor(props) {
@@ -20,18 +22,26 @@ export class TimelineComponent extends React.Component {
 
   render() {
 
-    let { items } = this.props;
+    let { items, isLoading } = this.props;
 
     if (!items.length) {
       return (
-        <div className="alert alert-info">
+        <div className="alert alert-warning">
           :( No items to show
         </div>
       );
     }
 
-    let timeline = items.map((item, idx) => {
-      <PostItem key={idx} item={item} />
+    if (isLoading) {
+      return (
+        <div className="alert alert-info">
+          Loading...
+        </div>
+      );
+    }
+
+    let timeline = items.map(function(item, idx) {
+      return (<PostItem key={idx} item={item} />);
     });
 
     return (

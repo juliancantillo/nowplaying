@@ -24,7 +24,7 @@ module.exports = function(state = initialState, action) {
     case 'SHOW_LOADING': {
       return {
         ...state,
-        isLoading: true
+        isLoading: action.isLoading
       };
 
     }
