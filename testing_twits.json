@@ -1,0 +1,2379 @@
+[
+    {
+        "created_at": "Tue Jan 19 04:24:52 +0000 2016",
+        "id": 689302480895782912,
+        "id_str": "689302480895782912",
+        "text": "https://t.co/ewi3oRLDbY test #NowPlaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NowPlaying",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ewi3oRLDbY",
+                    "expanded_url": "https://youtu.be/98kMWaGbdOQ",
+                    "display_url": "youtu.be/98kMWaGbdOQ",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                25.8804532,
+                -80.327994
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -80.327994,
+                25.8804532
+            ]
+        },
+        "place": {
+            "id": "629f4a26fed69cd3",
+            "url": "https://api.twitter.com/1.1/geo/id/629f4a26fed69cd3.json",
+            "place_type": "city",
+            "name": "Hialeah",
+            "full_name": "Hialeah, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.3563536,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.9094066
+                        ],
+                        [
+                            -80.3563536,
+                            25.9094066
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 13 20:43:52 +0000 2016",
+        "id": 687374526620004353,
+        "id_str": "687374526620004353",
+        "text": "https://t.co/xYJYZ82ra2 Test #NowPlaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NowPlaying",
+                    "indices": [
+                        29,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xYJYZ82ra2",
+                    "expanded_url": "https://youtu.be/aHcoBNdBvQE",
+                    "display_url": "youtu.be/aHcoBNdBvQE",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                25.8805711,
+                -80.3279999
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -80.3279999,
+                25.8805711
+            ]
+        },
+        "place": {
+            "id": "629f4a26fed69cd3",
+            "url": "https://api.twitter.com/1.1/geo/id/629f4a26fed69cd3.json",
+            "place_type": "city",
+            "name": "Hialeah",
+            "full_name": "Hialeah, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.3563536,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.9094066
+                        ],
+                        [
+                            -80.3563536,
+                            25.9094066
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Jan 06 14:32:02 +0000 2016",
+        "id": 684744236143521796,
+        "id_str": "684744236143521796",
+        "text": "https://t.co/am8fP5qSH3 Howdy! #NowPlaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NowPlaying",
+                    "indices": [
+                        31,
+                        42
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/am8fP5qSH3",
+                    "expanded_url": "https://youtu.be/V2VmcuOEqEg",
+                    "display_url": "youtu.be/V2VmcuOEqEg",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                25.8805311,
+                -80.3279934
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -80.3279934,
+                25.8805311
+            ]
+        },
+        "place": {
+            "id": "629f4a26fed69cd3",
+            "url": "https://api.twitter.com/1.1/geo/id/629f4a26fed69cd3.json",
+            "place_type": "city",
+            "name": "Hialeah",
+            "full_name": "Hialeah, FL",
+            "country_code": "US",
+            "country": "United States",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.3563536,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.806057
+                        ],
+                        [
+                            -80.252971,
+                            25.9094066
+                        ],
+                        [
+                            -80.3563536,
+                            25.9094066
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Dec 27 03:38:11 +0000 2015",
+        "id": 680955812492259328,
+        "id_str": "680955812492259328",
+        "text": "howdy!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sun Dec 27 03:25:51 +0000 2015",
+        "id": 680952707595800577,
+        "id_str": "680952707595800577",
+        "text": "https://t.co/am8fP5Iu5D #NowPlaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NowPlaying",
+                    "indices": [
+                        24,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/am8fP5Iu5D",
+                    "expanded_url": "https://youtu.be/V2VmcuOEqEg",
+                    "display_url": "youtu.be/V2VmcuOEqEg",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Fri Dec 18 15:42:10 +0000 2015",
+        "id": 677876517876011008,
+        "id_str": "677876517876011008",
+        "text": "Brendan Eich on JavaScript Taking Both the High and Low Roads - O'Reilly Fluent 2014 https://t.co/GAYYrK8PF0 #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        109,
+                        120
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GAYYrK8PF0",
+                    "expanded_url": "https://youtu.be/aZqhRICne_M?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K",
+                    "display_url": "youtu.be/aZqhRICne_M?li…",
+                    "indices": [
+                        85,
+                        108
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.7411504,
+                -74.0591862
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0591862,
+                4.7411504
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 17 03:39:49 +0000 2015",
+        "id": 677332345012297729,
+        "id_str": "677332345012297729",
+        "text": "https://t.co/am8fP5Iu5D #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        24,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/am8fP5Iu5D",
+                    "expanded_url": "https://youtu.be/V2VmcuOEqEg",
+                    "display_url": "youtu.be/V2VmcuOEqEg",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Thu Dec 10 22:11:35 +0000 2015",
+        "id": 675075414642020352,
+        "id_str": "675075414642020352",
+        "text": "Marcus Miller doing his thing https://t.co/7CR2JOb36Y #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        54,
+                        65
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        70,
+                        83
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/7CR2JOb36Y",
+                    "expanded_url": "https://www.youtube.com/watch?v=oI_aNllzYSk",
+                    "display_url": "youtube.com/watch?v=oI_aNl…",
+                    "indices": [
+                        30,
+                        53
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 22:05:12 +0000 2015",
+        "id": 675073806768173056,
+        "id_str": "675073806768173056",
+        "text": "Jamming https://t.co/Bnqulfvr3z #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        32,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        48,
+                        61
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Bnqulfvr3z",
+                    "expanded_url": "https://www.youtube.com/watch?v=XlP2yx5WbLA",
+                    "display_url": "youtube.com/watch?v=XlP2yx…",
+                    "indices": [
+                        8,
+                        31
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 15:07:11 +0000 2015",
+        "id": 674968610562039808,
+        "id_str": "674968610562039808",
+        "text": "ORPHANED LAND - Let The Truce Be Known (OFFICIAL VIDEO) https://t.co/87Uai6k4eJ #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        80,
+                        91
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/87Uai6k4eJ",
+                    "expanded_url": "https://www.youtube.com/watch?v=eEUJlxevrGk",
+                    "display_url": "youtube.com/watch?v=eEUJlx…",
+                    "indices": [
+                        56,
+                        79
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6797874,
+                -74.050352
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.050352,
+                4.6797874
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 15:04:59 +0000 2015",
+        "id": 674968055735259136,
+        "id_str": "674968055735259136",
+        "text": "Queens Of The Stone Age - No One Knows https://t.co/6fIFqukPAx #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        63,
+                        74
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6fIFqukPAx",
+                    "expanded_url": "https://www.youtube.com/watch?v=s88r_q7oufE&index=8",
+                    "display_url": "youtube.com/watch?v=s88r_q…",
+                    "indices": [
+                        39,
+                        62
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6797873,
+                -74.0503512
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0503512,
+                4.6797873
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 14:53:38 +0000 2015",
+        "id": 674965197753335808,
+        "id_str": "674965197753335808",
+        "text": "AC/DC - Play Ball https://t.co/lPPrKj57dJ #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        42,
+                        53
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/lPPrKj57dJ",
+                    "expanded_url": "https://www.youtube.com/watch?v=TT8e7i0ccLQ",
+                    "display_url": "youtube.com/watch?v=TT8e7i…",
+                    "indices": [
+                        18,
+                        41
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6797786,
+                -74.0503696
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0503696,
+                4.6797786
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 14:52:32 +0000 2015",
+        "id": 674964921306759168,
+        "id_str": "674964921306759168",
+        "text": "Amon Amarth \"Deceiver of the Gods\" (OFFICIAL VIDEO) https://t.co/GPCpH7tJjv #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        76,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/GPCpH7tJjv",
+                    "expanded_url": "https://www.youtube.com/watch?v=CpAcxbtXUgQ",
+                    "display_url": "youtube.com/watch?v=CpAcxb…",
+                    "indices": [
+                        52,
+                        75
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6797786,
+                -74.0503696
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0503696,
+                4.6797786
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 14:25:55 +0000 2015",
+        "id": 674958226237087744,
+        "id_str": "674958226237087744",
+        "text": "Royal Blood - Out Of The Black (Official Video) https://t.co/98ghFsFjcZ #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        72,
+                        83
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/98ghFsFjcZ",
+                    "expanded_url": "https://www.youtube.com/watch?v=bSdtvfBQd6c",
+                    "display_url": "youtube.com/watch?v=bSdtvf…",
+                    "indices": [
+                        48,
+                        71
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6797886,
+                -74.0503576
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0503576,
+                4.6797886
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Dec 10 14:15:00 +0000 2015",
+        "id": 674955479286734848,
+        "id_str": "674955479286734848",
+        "text": "Dream Theater's audio for ‘The Gift Of Music’ from their upcoming album The Astonishing.  https://t.co/2RuDtJPdKD #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        114,
+                        125
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2RuDtJPdKD",
+                    "expanded_url": "https://www.youtube.com/watch?v=CdPn1mCmqoE",
+                    "display_url": "youtube.com/watch?v=CdPn1m…",
+                    "indices": [
+                        90,
+                        113
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": {
+            "type": "Point",
+            "coordinates": [
+                4.6798075,
+                -74.0503801
+            ]
+        },
+        "coordinates": {
+            "type": "Point",
+            "coordinates": [
+                -74.0503801,
+                4.6798075
+            ]
+        },
+        "place": {
+            "id": "0161be1b3f98d6c3",
+            "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+            "place_type": "city",
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia",
+            "contained_within": [],
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.483288999243,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            3.71743200175304
+                        ],
+                        [
+                            -74.0040529979154,
+                            4.80713500387127
+                        ],
+                        [
+                            -74.483288999243,
+                            4.80713500387127
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Dec 02 06:20:32 +0000 2015",
+        "id": 671936969128198144,
+        "id_str": "671936969128198144",
+        "text": "https://t.co/nzbdKshXt8 #nowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        24,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/nzbdKshXt8",
+                    "expanded_url": "https://www.youtube.com/watch?v=V_J_keEIdSE",
+                    "display_url": "youtube.com/watch?v=V_J_ke…",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    {
+        "created_at": "Wed Dec 02 06:17:28 +0000 2015",
+        "id": 671936198626156544,
+        "id_str": "671936198626156544",
+        "text": "fdsadfdsafsdfd sfsd ds fsd fsdfds https://t.co/EmjzurYn4n #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        58,
+                        69
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        74,
+                        87
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/EmjzurYn4n",
+                    "expanded_url": "https://www.youtube.com/watch?v=2aSPnaqefxE",
+                    "display_url": "youtube.com/watch?v=2aSPna…",
+                    "indices": [
+                        34,
+                        57
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "tr"
+    },
+    {
+        "created_at": "Wed Dec 02 06:07:46 +0000 2015",
+        "id": 671933756236816385,
+        "id_str": "671933756236816385",
+        "text": "rolling stones https://t.co/DxSuNbA1vR #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        39,
+                        50
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        55,
+                        68
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DxSuNbA1vR",
+                    "expanded_url": "https://www.youtube.com/watch?v=ZRXGsPBUV5g",
+                    "display_url": "youtube.com/watch?v=ZRXGsP…",
+                    "indices": [
+                        15,
+                        38
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Dec 02 05:26:31 +0000 2015",
+        "id": 671923375464423424,
+        "id_str": "671923375464423424",
+        "text": "Midnight Rambler https://t.co/aBjSI51w3S #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        41,
+                        52
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        57,
+                        70
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/aBjSI51w3S",
+                    "expanded_url": "https://www.youtube.com/watch?v=DRot9IjNSso",
+                    "display_url": "youtube.com/watch?v=DRot9I…",
+                    "indices": [
+                        17,
+                        40
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Dec 02 05:04:30 +0000 2015",
+        "id": 671917838039457792,
+        "id_str": "671917838039457792",
+        "text": "Cool licks from Tom Quayle https://t.co/OTkyTOnel4 #nowplaying via @BInowplaying",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "nowplaying",
+                    "indices": [
+                        51,
+                        62
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "BInowplaying",
+                    "name": "BI nowplaying",
+                    "id": 2834545563,
+                    "id_str": "2834545563",
+                    "indices": [
+                        67,
+                        80
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/OTkyTOnel4",
+                    "expanded_url": "https://www.youtube.com/watch?v=5ZZLKN9Kfeg",
+                    "display_url": "youtube.com/watch?v=5ZZLKN…",
+                    "indices": [
+                        27,
+                        50
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://leomoreno.github.io/\" rel=\"nofollow\">binowplaying</a>",
+        "in_reply_to_stat* Connection #0 to host api.twitter.com left intact\nus_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2834545563,
+            "id_str": "2834545563",
+            "name": "BI nowplaying",
+            "screen_name": "BInowplaying",
+            "location": "Bogotá, Colombia",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2,
+            "friends_count": 1,
+            "listed_count": 1,
+            "created_at": "Thu Oct 16 21:53:44 +0000 2014",
+            "favourites_count": 3,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 114,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
