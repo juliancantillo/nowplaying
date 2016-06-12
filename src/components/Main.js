@@ -25,7 +25,7 @@ class AppComponent extends React.Component {
     if (isLoading) {
       loadingMessage = (
         <div className="alert alert-info">
-          <i className="fa fa-spinner"/>Loading...
+          <i className="fa fa-spinner fa-spin"/> Loading...
         </div>
       );
     }
