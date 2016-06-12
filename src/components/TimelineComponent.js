@@ -12,8 +12,7 @@ function mapStateToProps(state) {
 
 export class TimelineComponent extends React.Component {
   static propTypes = {
-    items: React.PropTypes.array.isRequired,
-    isLoading: React.PropTypes.bool
+    items: React.PropTypes.array.isRequired
   };
 
   constructor(props) {
@@ -22,20 +21,12 @@ export class TimelineComponent extends React.Component {
 
   render() {
 
-    let { items, isLoading } = this.props;
+    let { items } = this.props;
 
     if (!items.length) {
       return (
         <div className="alert alert-warning">
           :( No items to show
-        </div>
-      );
-    }
-
-    if (isLoading) {
-      return (
-        <div className="alert alert-info">
-          Loading...
         </div>
       );
     }

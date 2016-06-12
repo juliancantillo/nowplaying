@@ -38,6 +38,14 @@ module.exports = function(state = initialState, action) {
 
     }
 
+    case 'SHOW_ERRORS': {
+      return {
+        ...state,
+        errors: action.errors
+      };
+
+    }
+
     default: {
       /* Return original state if no actions were consumed. */
       return state;

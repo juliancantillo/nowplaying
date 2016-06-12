@@ -37,7 +37,9 @@ function mapDispatchToProps(dispatch) {
   const actions = {
     fetchItems: require('../actions/timeline/fetchItems.js'),
     listItems: require('../actions/timeline/listItems.js'),
-    showLoading: require('../actions/showLoading.js')
+    showLoading: require('../actions/showLoading.js'),
+    postItem: require('../actions/timeline/postItem.js'),
+    showErrors: require('../actions/showErrors.js')
   };
   const actionMap = { actions: bindActionCreators(actions, dispatch) };
   return actionMap;

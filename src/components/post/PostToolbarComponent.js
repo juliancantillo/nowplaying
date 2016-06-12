@@ -4,7 +4,7 @@ import moment from 'moment';
 export default class PostToolbarComponent extends React.Component {
   static propTypes = {
     item_id: React.PropTypes.number,
-    created_at: React.PropTypes.object
+    created_at: React.PropTypes.string
   };
 
   constructor(props) {
@@ -14,7 +14,7 @@ export default class PostToolbarComponent extends React.Component {
   render() {
     let { item_id, created_at } = this.props;
 
-    let created_diff = moment(created_at).fromNow();
+    let created_diff = moment(new Date(created_at)).fromNow();
 
     return (
       <div className="post-item__toolbar">

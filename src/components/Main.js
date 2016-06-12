@@ -11,10 +11,25 @@ class AppComponent extends React.Component {
   }
 
   onSubmitHandler(post) {
-    console.log(post);
+
+    let tweet = `#NowPlaying ${post.video} ${post.text}`;
+
+    this.props.actions.postItem(tweet);
   }
 
   render() {
+
+    let { isLoading } = this.props.timeline;
+    let loadingMessage = null;
+
+    if (isLoading) {
+      loadingMessage = (
+        <div className="alert alert-info">
+          <i className="fa fa-spinner"/>Loading...
+        </div>
+      );
+    }
+
     return (
       <div className="index">
         <div>
@@ -24,6 +39,7 @@ class AppComponent extends React.Component {
             It also allows you to post a #nowplaying tweet with a YouTube link.
           </p>
         </div>
+        { loadingMessage }
         <PostForm onSubmitHandler={this.onSubmitHandler.bind(this)} />
         <Timeline />
       </div>
