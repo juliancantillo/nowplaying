@@ -10,6 +10,10 @@ class AppComponent extends React.Component {
     this.props.actions.fetchItems();
   }
 
+  onSubmitHandler(post) {
+    console.log(post);
+  }
+
   render() {
     return (
       <div className="index">
@@ -20,7 +24,7 @@ class AppComponent extends React.Component {
             It also allows you to post a #nowplaying tweet with a YouTube link.
           </p>
         </div>
-        <PostForm />
+        <PostForm onSubmitHandler={this.onSubmitHandler.bind(this)} />
         <Timeline />
       </div>
     );

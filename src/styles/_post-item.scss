@@ -1,0 +1,80 @@
+.postitem-component {
+  border: 1px dashed #f00;
+}
+
+
+.post-item{
+
+  @extend .panel;
+  @extend .panel-default;
+
+  .post-item__body{
+    @extend .panel-body;
+
+    .user-info{
+      min-height: 48px;
+
+      .follow-user{
+        @extend .pull-right;
+      }
+    }
+
+    .player-wrapper{
+      position: relative;
+      &:after{
+        position: absolute;
+        content: " ";
+        background-image: url('https://ton.twimg.com/tfw/assets/play_v1_8b695d1e7023e06826dfde859728a2a59b15900f.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+      }
+
+      &:before{
+        content: '';
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        background-color: fade-out($gray-dark, 0.3);
+      }
+    }
+
+    .pic-wrapper{
+      .user-pic{
+        @extend .img-responsive;
+        width: 48px;
+        height: 48px;
+        border-radius: 4px;
+      }
+      display: inline-block;
+      float: left;
+    }
+
+    .user-name{
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+
+    .user-screen-name{
+      font-size: 0.9em;
+      color: $gray-light;
+    }
+
+    .user-name,
+    .user-screen-name{
+      display: block;
+      margin-left: 55px;
+    }
+
+    .post-item__content{
+      padding: 15px 0px;
+      font-size: 1.2em;
+    }
+
+  }
+}
